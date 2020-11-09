@@ -1,0 +1,42 @@
+nav{
+    /**/
+
+}
+nav:hover{
+    color: red;
+}
+
+nav div{
+    border: 4px solid whitesmoke;
+    box-sizing: border-box;
+    background-color: transparent;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    color: whitesmoke;
+    align-self: center;
+    size: 2%;
+    position: sticky;
+
+}
+
+nav div #account{
+    border: 4px solid #20c000;
+    box-sizing: border-box;
+    background-color: transparent;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    color: #20c000;
+    size: 2%;
+}
